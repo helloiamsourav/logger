@@ -6,8 +6,4 @@ enum class loglevel
         debug,
         error
 };
-enum class log
-{
-	endl
-};
 #endif
